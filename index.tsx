@@ -47,7 +47,7 @@ const workspaceOptions = {
 
 const defaultTabConfig = {
   name:'',
-  url: 'http://swapi.apis.guru',
+  url: 'https://swapi.apis.guru',
   headers: [],
   query: defaultQuery,
   maxHistory: 10,
