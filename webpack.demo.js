@@ -23,7 +23,7 @@ module.exports = {
   },
   entry: ['./demo/index.tsx'],
   output: {
-    path: root('demo'),
+    path: root('.'),
     filename: 'bundle.js',
     sourceMapFilename: '[file].map'
   },
